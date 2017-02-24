@@ -1,0 +1,23 @@
+{
+  "name": "tdd-exercises",
+  "version": "1.0.0",
+  "description": "TDD exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nongaap/tdd-exercises.git"
+  },
+  "author": "Mike Puangmalai <mike@nongaap.com> (http://www.nongaap.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nongaap/tdd-exercises/issues"
+  },
+  "homepage": "https://github.com/nongaap/tdd-exercises#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
